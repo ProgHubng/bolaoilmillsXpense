@@ -1,0 +1,20 @@
+How to Install the Xpense Manager
+
+1. Extract the downloaded zip into the www folder in your wamp64 directory
+
+2. Navigate inside the folder and open a folder called DATABASE
+
+3. Goto your localhost/phpmyadmin and create a database name bolaoilmillsXpense
+
+4. After creating just import the bolaoilmillsXpense.sql inside the DATABASE folder in your www folder, 
+
+navigate inside your folder and goto bolaoilmillsXpense --> core --> .env and change the connection if there is need for you to do that.
+
+5. After successful import, goto localhost/bolaoilmillsXpense and login with
+
+	Email - admin@wegohostu.com
+	Password - admin101
+
+6. Please note, the database must be bolaoilmillsXpense
+
+7. Thats all. 
